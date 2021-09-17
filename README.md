@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @suzannemanugian
-- 👀 I’m interested in learning how to Git and participating in the NCEAS-DSP working group
-- 🌱 I’m currently learning how to build a climbing wall in my garage
-- 📫 You can reach me through Teams or email at smanugian@usbr.gov
+- 👀 I’m learning how to Git through participating in the NCEAS-DSP working group
+- 🌱 In my personal life I’m currently learning how to build a climbing wall in my garage
+- 📫 You can reach me via email at smanugian@usbr.gov (work) or suzannemanugian@gmail.com (personal)
 
 <!---
 suzannemanugian/suzannemanugian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

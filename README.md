@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @suzannemanugian
-- 📫 Reach out to me via email at smanugian@usbr.gov (work) or suzannemanugian@gmail.com (personal)
+- 📫 Reach out to me via email at suzannemanugian@gmail.com (personal, preferred) or suzanne.manugian@icf.com (work)
